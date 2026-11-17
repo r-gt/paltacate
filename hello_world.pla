@@ -1,0 +1,101 @@
+🥑🥑🥑🥑 Allocates 4 slots in memory
+
+
+HELLO WORLD IN PALTACATE
+(any non avocado character will be ignored)
+
+
+
+🥑
+🥑🥑🥑🥑🥑🥑🥑🥑🥑🥑🥑🥑  add 12 to slot 1
+
+🥑🥑🥑🥑🥑🥑       loop start
+
+	🥑🥑🥑         move to slot 2
+
+	🥑             add 6
+	🥑🥑🥑🥑🥑🥑
+
+	🥑🥑🥑         move to slot 3
+
+	🥑             add 7
+	🥑🥑🥑🥑🥑🥑🥑
+
+	🥑🥑🥑         move to slot 4
+
+	🥑            add 3
+	🥑🥑🥑
+
+
+	🥑🥑🥑🥑        move to slot 3
+	🥑🥑🥑🥑        move to slot 2
+	🥑🥑🥑🥑        move to slot 1
+
+	🥑🥑            substract 1
+	🥑
+
+🥑🥑🥑🥑🥑🥑🥑       loop end
+
+🥑🥑🥑           slot 2
+
+🥑🥑🥑🥑🥑        H
+
+🥑🥑
+🥑🥑🥑
+
+🥑🥑🥑🥑🥑        E
+
+🥑
+🥑🥑🥑🥑🥑🥑🥑
+
+🥑🥑🥑🥑🥑        L
+
+🥑🥑🥑🥑🥑        L
+
+🥑
+🥑🥑🥑
+
+🥑🥑🥑🥑🥑        O
+
+🥑🥑🥑           slot 3
+🥑🥑🥑           slot 4
+
+🥑🥑
+🥑🥑🥑🥑
+
+🥑🥑🥑🥑🥑       Space
+
+🥑🥑🥑🥑         slot 3
+
+🥑
+🥑🥑🥑
+
+🥑🥑🥑🥑🥑       W
+
+🥑🥑🥑🥑         slot 2
+
+🥑🥑🥑🥑🥑       O
+
+🥑
+🥑🥑🥑
+
+🥑🥑🥑🥑🥑       R
+
+🥑🥑
+🥑🥑🥑🥑🥑🥑
+
+🥑🥑🥑🥑🥑       L
+
+🥑🥑
+🥑🥑🥑🥑🥑🥑🥑🥑
+
+🥑🥑🥑🥑🥑       D
+
+🥑🥑🥑          slot 3
+🥑🥑🥑          slot 4
+
+🥑
+🥑
+
+🥑🥑🥑🥑🥑      !
+
