@@ -39,7 +39,8 @@ instructions:
 
 	7:🥑🥑🥑🥑🥑🥑🥑
 		Loop end, Jumps to Loop Start if it's condition requieres a loop.
-
+    8:🥑🥑🥑🥑🥑🥑🥑🥑
+        Asks for a character and stores it in the selected memory slot. 
 
 
 Licence:
